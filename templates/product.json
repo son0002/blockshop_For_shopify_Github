@@ -183,7 +183,7 @@
         "title": "You May Also Like",
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 3,
         "spacing-above": true,
         "spacing-below": true
       }
