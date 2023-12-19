@@ -2193,7 +2193,7 @@ html.no-js .x-menu--level-1--link>a {
 
 [data-x-menu--depth="3"] .x-menu--level-2--container {
   margin: 0 var(--spacing--neg-5);
-  width: calc(100% + 96px);
+  width: calc(100%);
   max-width: calc(100% + 96px);
   padding-left: 25px;
   padding-right: 25px
