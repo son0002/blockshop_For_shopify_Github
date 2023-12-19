@@ -61,6 +61,15 @@
             "max-products": 2,
             "collapsible-row-enabled": false
           }
+        },
+        "53d32f5f-8cbb-4ec1-ae3e-631eac3ddbc6": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "page-content": "shipping-returns",
+            "default-open": false
+          }
         }
       },
       "block_order": [
@@ -72,7 +81,8 @@
         "buy-buttons",
         "social-sharing",
         "description",
-        "complementary-products"
+        "complementary-products",
+        "53d32f5f-8cbb-4ec1-ae3e-631eac3ddbc6"
       ],
       "settings": {
         "container-width": 4,
