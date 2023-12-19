@@ -39,6 +39,16 @@
             "smart-payment-enabled": true
           }
         },
+        "social-sharing": {
+          "type": "social-sharing",
+          "settings": {
+            "facebook-enabled": true,
+            "x-enabled": true,
+            "pinterest-enabled": true,
+            "email-enabled": true,
+            "url-enabled": true
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -51,17 +61,6 @@
             "max-products": 2,
             "collapsible-row-enabled": false
           }
-        },
-        "social-sharing": {
-          "type": "social-sharing",
-          "disabled": true,
-          "settings": {
-            "facebook-enabled": true,
-            "x-enabled": true,
-            "pinterest-enabled": true,
-            "email-enabled": true,
-            "url-enabled": true
-          }
         }
       },
       "block_order": [
@@ -71,9 +70,9 @@
         "options",
         "4468062b-f73b-46ea-931c-f7f529d5f6a0",
         "buy-buttons",
+        "social-sharing",
         "description",
-        "complementary-products",
-        "social-sharing"
+        "complementary-products"
       ],
       "settings": {
         "container-width": 4,
