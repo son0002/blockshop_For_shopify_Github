@@ -107,7 +107,7 @@
 }
 
 .footer--subscribe {
-    max-width: 300px
+    max-width: 500px
 }
 
 @media only screen and (max-width:767px) {
@@ -124,7 +124,7 @@
 
 .footer--subscribe .footer--form-container {
     display: flex;
-    max-width: 300px
+    max-width: 500px
 }
 
 .flexbox-gap .footer--subscribe .footer--form-container {
