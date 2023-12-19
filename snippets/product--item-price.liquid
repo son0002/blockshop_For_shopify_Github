@@ -18,27 +18,24 @@
           {{- from_t -}}
         </span>
       {%- endif -%}
+      
       <span class="product--price money" data-item="accent-text">
         {{- product.price | money -}}
       </span>
-      
+    
       {%- if compare_price and compare_price != blank -%}
-      <span class="product--compare-price money" data-item="light-accent-text">
-        {{- compare_price -}}
-      </span>
-      {%- endif -%}
-
-      {%- if compare_price and compare_price != blank -%}
+        <span class="product--compare-price money" data-item="light-accent-text">
+          {{- compare_price -}}
+        </span>
+    
         <style>
-          .product--price {
+          .product--price-wrapper .product--price[data-item] {
             color: #EA3A36;
           }
         </style>
       {%- endif -%}
-
-
-    
     </div>
+    
 
     <div class="product--unit-price-container" data-item="small-text">
       {%- if current_variant.unit_price_measurement -%}
