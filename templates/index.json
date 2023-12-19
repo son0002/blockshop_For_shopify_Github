@@ -580,6 +580,7 @@
         "04f02ac5-5492-4ffc-8dcf-070bce3ed2fd",
         "3ce58cd2-9231-4642-8e27-8e209b88413c"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "dark",
         "background-color": "none",
@@ -718,70 +719,77 @@
         "link-text": ""
       }
     },
-    "61f92692-5b2d-4fee-806d-889fd224653e": {
-      "type": "text-columns",
+    "016b17ec-e268-4d3a-a42d-18349b8c946c": {
+      "type": "grid-with-overlay",
       "blocks": {
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-1": {
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "show-image": true,
-            "title": "Add a title or tagline",
-            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "image": "shopify:\/\/shop_images\/IMG_7403.jpg",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "Grid image",
             "link-url": "",
             "link-text": "View more"
           }
         },
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-2": {
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-2": {
           "type": "image",
           "settings": {
-            "show-image": true,
-            "title": "Add a title or tagline",
-            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "image": "shopify:\/\/shop_images\/387155782_18292746634131742_9205263512858681735_n.jpg",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
             "link-url": "",
-            "link-text": "View more"
+            "link-text": ""
           }
         },
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-3": {
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-3": {
           "type": "image",
           "settings": {
-            "show-image": true,
-            "title": "Add a title or tagline",
-            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
-            "link-url": "",
-            "link-text": "View more"
+            "image": "shopify:\/\/shop_images\/387135691_18292746613131742_4811191121034184558_n.jpg",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
+            "link-url": "shopify:\/\/products\/skyla-vanilla-sky-edp-sample",
+            "link-text": ""
           }
         },
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-4": {
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-4": {
           "type": "image",
           "settings": {
-            "show-image": true,
-            "title": "Add a title or tagline",
-            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
-            "link-url": "",
-            "link-text": "View more"
+            "image": "shopify:\/\/shop_images\/370278293_18292746625131742_5973805356856505949_n.jpg",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
+            "link-url": "shopify:\/\/products\/skylar-fall-cashmere-eau-de-parfum-sample",
+            "link-text": ""
           }
         }
       },
       "block_order": [
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-1",
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-2",
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-3",
-        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-4"
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-1",
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-2",
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-3",
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-4"
       ],
       "settings": {
+        "text-style": "light-with-overlay",
         "background-color": "none",
         "light-text": false,
-        "enable_slide": false,
-        "block-spacing": true,
-        "container-width": 3,
+        "mobile-overlay": false,
+        "container-width": 6,
+        "spacing": false,
         "spacing-above": true,
         "spacing-below": true,
         "width": 3,
-        "aspect-ratio": "square",
-        "image-width": 0,
         "mobile-width": "1",
-        "text-alignment": "center",
-        "heading": "Text columns with images",
+        "heading": "",
         "subtitle": "",
         "link-url": "",
         "link-text": ""
@@ -805,6 +813,6 @@
     "164016757166a86406",
     "4bca25ed-7954-4fac-b953-85e71b0c0921",
     "ef31fa12-e7a0-4c66-8567-1cca76a8a029",
-    "61f92692-5b2d-4fee-806d-889fd224653e"
+    "016b17ec-e268-4d3a-a42d-18349b8c946c"
   ]
 }
