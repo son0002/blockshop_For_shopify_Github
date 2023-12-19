@@ -520,90 +520,20 @@
         "link-text": ""
       }
     },
-    "f464cea0-bd7e-46ca-8e5a-57cfc76269da": {
-      "type": "collapsible-rows",
-      "blocks": {
-        "template--14865991630929__f464cea0-bd7e-46ca-8e5a-57cfc76269da-16866969207649ce86-0": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Collapsible row",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--14865991630929__f464cea0-bd7e-46ca-8e5a-57cfc76269da-16866969207649ce86-1": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Collapsible row",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--14865991630929__f464cea0-bd7e-46ca-8e5a-57cfc76269da-16866969207649ce86-2": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Collapsible row",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14865991630929__f464cea0-bd7e-46ca-8e5a-57cfc76269da-16866969207649ce86-0",
-        "template--14865991630929__f464cea0-bd7e-46ca-8e5a-57cfc76269da-16866969207649ce86-1",
-        "template--14865991630929__f464cea0-bd7e-46ca-8e5a-57cfc76269da-16866969207649ce86-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 1,
-        "spacing-above": true,
-        "spacing-below": true,
-        "heading": "FAQS",
-        "heading-alignment": "center"
-      }
-    },
     "c2bf2975-d67f-4266-a3ff-0792d1bea3ea": {
       "type": "slideshow",
       "blocks": {
-        "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
-        },
-        "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
-        },
         "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-3": {
           "type": "image",
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "image": "shopify:\/\/shop_images\/61i_cEEISQL._SL1080.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
             "link-url": "\/",
-            "link-text": "View more"
+            "link-text": ""
           }
         },
         "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-4": {
@@ -611,6 +541,31 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/IMG_7403.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": ""
+          }
+        },
+        "04f02ac5-5492-4ffc-8dcf-070bce3ed2fd": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        },
+        "3ce58cd2-9231-4642-8e27-8e209b88413c": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
             "overline": "Overline text",
             "title": "Slide heading",
             "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
@@ -620,26 +575,25 @@
         }
       },
       "block_order": [
-        "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-1",
-        "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-2",
         "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-3",
-        "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-4"
+        "template--21683259801891__c2bf2975-d67f-4266-a3ff-0792d1bea3ea-image-4",
+        "04f02ac5-5492-4ffc-8dcf-070bce3ed2fd",
+        "3ce58cd2-9231-4642-8e27-8e209b88413c"
       ],
-      "disabled": true,
       "settings": {
-        "text-color": "auto",
+        "text-color": "dark",
         "background-color": "none",
         "spacing-above": false,
         "spacing-below": false,
         "spacing-around-blocks": false,
-        "image-aspect-ratio": 56,
-        "darken-image": true,
+        "image-aspect-ratio": 62,
+        "darken-image": false,
         "blocks_per_slide": 2,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 134,
+        "mobile-image-aspect-ratio": 62,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -670,6 +624,32 @@
         "overline": "The Gift of Fragrance",
         "title": "Mini Luxury Deluxe Perfume Discovery Set",
         "description": "<h3>Discover new favorite scents with samples from Jo Malone London, Diptyque, Tory Burch and more.<\/h3><h3><\/h3>",
+        "link-url": "shopify:\/\/products\/mini-luxury-deluxe-perfume-discovery-set",
+        "link-text": "SHOP NOW"
+      }
+    },
+    "4bca25ed-7954-4fac-b953-85e71b0c0921": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 52,
+        "mobile-image-aspect-ratio": 82,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "right",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": true,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/SweetBiome_StylizedPDP_Image2_b6e633d9-8664-4936-b24f-61d5acbb6839.png",
+        "mobile-image": "shopify:\/\/shop_images\/IMG_0593.png",
+        "overline": "Drunk elephant",
+        "title": "Sweet Biome Fermented Sake Spray",
+        "description": "<h3>Spritz on morning, noon or night before or after you skincare smoothie.<\/h3><h4><\/h4>",
         "link-url": "shopify:\/\/products\/mini-luxury-deluxe-perfume-discovery-set",
         "link-text": "SHOP NOW"
       }
@@ -732,7 +712,6 @@
         "template--14865991630929__ef31fa12-e7a0-4c66-8567-1cca76a8a029-168670132626cd7253-0",
         "f7c214e4-3277-495f-bd75-955893964cb4"
       ],
-      "disabled": true,
       "custom_css": [
 
       ],
@@ -744,7 +723,7 @@
         "container-width": 5,
         "spacing-above": true,
         "spacing-below": true,
-        "width": 4,
+        "width": 3,
         "aspect-ratio": "square",
         "image-width": 0,
         "mobile-width": "2",
@@ -769,9 +748,9 @@
     "1640167859b5c16893",
     "2bc38ec4-7be4-48e0-be44-1d712bc79ac9",
     "grid-with-overlay",
-    "f464cea0-bd7e-46ca-8e5a-57cfc76269da",
     "c2bf2975-d67f-4266-a3ff-0792d1bea3ea",
     "164016757166a86406",
+    "4bca25ed-7954-4fac-b953-85e71b0c0921",
     "ef31fa12-e7a0-4c66-8567-1cca76a8a029"
   ]
 }
