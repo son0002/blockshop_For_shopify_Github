@@ -718,7 +718,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "enable_slide": true,
+        "enable_slide": false,
         "block-spacing": true,
         "container-width": 5,
         "spacing-above": true,
