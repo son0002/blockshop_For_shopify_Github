@@ -14,11 +14,11 @@
   <div class="product--price-container">
     <div class="product--price-wrapper">
       {%- if compare_price -%}
+      <span class="product--price money" data-item="accent-text" data-has-discount="true">
+        {{- product.price | money -}}
+      </span>
         <span class="product--compare-price money" data-item="light-accent-text">
           {{- compare_price -}}
-        </span>
-        <span class="product--price money" data-item="accent-text" data-has-discount="true">
-          {{- product.price | money -}}
         </span>
       {%- else -%}
         <span class="product--price money" data-item="accent-text">
