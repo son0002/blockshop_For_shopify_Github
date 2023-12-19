@@ -717,6 +717,75 @@
         "link-url": "shopify:\/\/collections\/the-7-virtues",
         "link-text": ""
       }
+    },
+    "61f92692-5b2d-4fee-806d-889fd224653e": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-1": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "title": "Add a title or tagline",
+            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-2": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "title": "Add a title or tagline",
+            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-3": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "title": "Add a title or tagline",
+            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-4": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "title": "Add a title or tagline",
+            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-1",
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-2",
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-3",
+        "template--21725409739043__61f92692-5b2d-4fee-806d-889fd224653e-image-4"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "enable_slide": false,
+        "block-spacing": true,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "width": 4,
+        "aspect-ratio": "square",
+        "image-width": 0,
+        "mobile-width": "1",
+        "text-alignment": "center",
+        "heading": "Text columns with images",
+        "subtitle": "",
+        "link-url": "",
+        "link-text": ""
+      }
     }
   },
   "order": [
@@ -735,6 +804,7 @@
     "c2bf2975-d67f-4266-a3ff-0792d1bea3ea",
     "164016757166a86406",
     "4bca25ed-7954-4fac-b953-85e71b0c0921",
-    "ef31fa12-e7a0-4c66-8567-1cca76a8a029"
+    "ef31fa12-e7a0-4c66-8567-1cca76a8a029",
+    "61f92692-5b2d-4fee-806d-889fd224653e"
   ]
 }
