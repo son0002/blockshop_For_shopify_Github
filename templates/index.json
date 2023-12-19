@@ -735,18 +735,6 @@
             "link-text": "View more"
           }
         },
-        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/387155782_18292746634131742_9205263512858681735_n.jpg",
-            "wide": false,
-            "tall": false,
-            "retain-ratio": false,
-            "title": "",
-            "link-url": "",
-            "link-text": ""
-          }
-        },
         "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-3": {
           "type": "image",
           "settings": {
@@ -756,6 +744,18 @@
             "retain-ratio": false,
             "title": "",
             "link-url": "shopify:\/\/products\/skyla-vanilla-sky-edp-sample",
+            "link-text": ""
+          }
+        },
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/387155782_18292746634131742_9205263512858681735_n.jpg",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
+            "link-url": "",
             "link-text": ""
           }
         },
@@ -774,8 +774,8 @@
       },
       "block_order": [
         "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-1",
-        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-2",
         "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-3",
+        "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-2",
         "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-4"
       ],
       "settings": {
