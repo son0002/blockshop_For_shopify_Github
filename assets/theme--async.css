@@ -2754,6 +2754,11 @@ svg use svg {
     }
 }
 
+.product--price[data-has-discount="true"] {
+    color: #EA3A36;
+  }
+  
+
 .product-buy-buttons--smart .shopify-payment-button__more-options:focus-visible,
 .product-buy-buttons--smart .shopify-payment-button__more-options:hover {
     background-color: unset;
