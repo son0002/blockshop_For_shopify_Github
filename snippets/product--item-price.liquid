@@ -22,16 +22,20 @@
         {{- product.price | money -}}
       </span>
       
-      {%- if compare_price -%}
-        <span class="product--compare-price money" data-item="light-accent-text">
-          {{- compare_price -}}
-        </span>
-       <style>
-         .product--price[data-item] {
-          color: #EA3A36;
-        }
-       </style>
+      {%- if compare_price and compare_price != blank -%}
+      <span class="product--compare-price money" data-item="light-accent-text">
+        {{- compare_price -}}
+      </span>
       {%- endif -%}
+
+      {%- if compare_price and compare_price != blank -%}
+        <style>
+          .product--price[data-item] {
+            color: #EA3A36;
+          }
+        </style>
+      {%- endif -%}
+
 
     
     </div>
