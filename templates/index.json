@@ -631,6 +631,7 @@
     },
     "4bca25ed-7954-4fac-b953-85e71b0c0921": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
