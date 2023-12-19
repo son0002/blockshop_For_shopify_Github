@@ -3,7 +3,7 @@
     "collection-header": {
       "type": "collection--header",
       "custom_css": [
-        ".collection--header--rootr{max-width: 1420px; margin: 0 auto;}"
+        ".collection--header--root{max-width: 1420px; margin: 0 auto;}"
       ],
       "settings": {
         "show-title": true,
