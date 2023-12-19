@@ -663,8 +663,9 @@
           "settings": {
             "show-image": true,
             "image": "shopify:\/\/shop_images\/387155782_18292746634131742_9205263512858681735_n.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/387155782_18292746634131742_9205263512858681735_n.jpg",
             "title": "",
-            "description": "<h2>Vanilla Woods<\/h2><h2><\/h2>",
+            "description": "<h2><\/h2><h2><\/h2>",
             "link-url": "shopify:\/\/products\/the-7-virtues-vanilla-woods-edp-sample",
             "link-text": "Shop now"
           }
