@@ -3312,3 +3312,7 @@ form[aria-busy=false] .popup--block--loading {
   }
 
 }
+
+.footer--block--heading ,.footer--block--body li a{
+  font-weight: bold;
+}
