@@ -65,7 +65,7 @@
         "53d32f5f-8cbb-4ec1-ae3e-631eac3ddbc6": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "{{ block.settings[\"page-content\"].title }}",
             "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
             "page-content": "shipping-returns",
             "default-open": false

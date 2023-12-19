@@ -29,6 +29,7 @@
         },
         "864243fd-e600-4e66-8d1a-ab19a6715f9d": {
           "type": "menu",
+          "disabled": true,
           "settings": {
             "menu-title": "Shop",
             "menu": "skincare"
