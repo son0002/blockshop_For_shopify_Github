@@ -1,7 +1,7 @@
 {
   "current": {
     "color--accent-1": "#ffbd03",
-    "color--accent-2": "#f4f4f4",
+    "color--accent-2": "#e43a36",
     "bg-color--light": "#dd7973",
     "bg-color--dark": "#fff5ee",
     "bg-color--body": "#ffffff",
@@ -22,12 +22,12 @@
     "product--hide-single-swatch": false,
     "product--text-alignment": "left",
     "product--label-shape": "square",
-    "product--label-color": "accent-1",
+    "product--label-color": "accent-2",
     "product--label-light-text": true,
     "product--show-sale-label": "show-text",
     "product--show-new-label": false,
     "product--new-label-period": 90,
-    "product--featured-tags": "new,",
+    "product--featured-tags": "",
     "quick-add--enabled": true,
     "quick-add--variant-style": "dropdowns",
     "quick-add--show-quantity": false,
