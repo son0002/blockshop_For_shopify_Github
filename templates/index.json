@@ -661,8 +661,7 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/1_e8f4229a-70f8-4803-af71-b8e23ceb0dea.png",
-            "mobile_image": "shopify:\/\/shop_images\/1_e8f4229a-70f8-4803-af71-b8e23ceb0dea.png",
+            "image": "shopify:\/\/shop_images\/387135691_18292746613131742_4811191121034184558_n.jpg",
             "title": "",
             "description": "<h2>Blackberry Lily <\/h2><p><\/p>",
             "link-url": "shopify:\/\/products\/the-7-virtues-blackberry-lily-edp-sample",
@@ -673,8 +672,7 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/4_ac77c055-a301-40cb-a78a-1b35d675e41c.png",
-            "mobile_image": "shopify:\/\/shop_images\/4_ac77c055-a301-40cb-a78a-1b35d675e41c.png",
+            "image": "shopify:\/\/shop_images\/370278293_18292746625131742_5973805356856505949_n.jpg",
             "title": "",
             "description": "<h2>Lotus Pear <\/h2><h3><\/h3>",
             "link-url": "shopify:\/\/products\/the-7-virtues-lotus-pear-edp-sample",
@@ -685,32 +683,18 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/KEY_NOTES_1.png",
-            "mobile_image": "shopify:\/\/shop_images\/KEY_NOTES_1.png",
+            "image": "shopify:\/\/shop_images\/387155782_18292746634131742_9205263512858681735_n.jpg",
             "title": "",
             "description": "<h2>Vanilla Woods<\/h2><h2><\/h2>",
             "link-url": "shopify:\/\/products\/the-7-virtues-vanilla-woods-edp-sample",
             "link-text": "Shop now"
-          }
-        },
-        "f7c214e4-3277-495f-bd75-955893964cb4": {
-          "type": "image",
-          "settings": {
-            "show-image": true,
-            "image": "shopify:\/\/shop_images\/KEY_NOTES_2.png",
-            "mobile_image": "shopify:\/\/shop_images\/KEY_NOTES_2.png",
-            "title": "",
-            "description": "<h2>Santal Vanille<\/h2><h2><\/h2>",
-            "link-url": "shopify:\/\/products\/the-7-virtues-santal-vanille-epd-sample",
-            "link-text": "View more"
           }
         }
       },
       "block_order": [
         "template--14865991630929__ef31fa12-e7a0-4c66-8567-1cca76a8a029-168670132626cd7253-1",
         "template--14865991630929__ef31fa12-e7a0-4c66-8567-1cca76a8a029-168670132626cd7253-2",
-        "template--14865991630929__ef31fa12-e7a0-4c66-8567-1cca76a8a029-168670132626cd7253-0",
-        "f7c214e4-3277-495f-bd75-955893964cb4"
+        "template--14865991630929__ef31fa12-e7a0-4c66-8567-1cca76a8a029-168670132626cd7253-0"
       ],
       "custom_css": [
 
@@ -718,7 +702,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "enable_slide": false,
+        "enable_slide": true,
         "block-spacing": false,
         "container-width": 5,
         "spacing-above": true,
