@@ -9,7 +9,7 @@
           "type": "subscribe",
           "settings": {
             "newsletter--heading": "",
-            "newsletter--info": "<h5><strong>Subscribe to receive updates, access to exclusive deals, and more.<\/strong><\/h5><p><\/p>",
+            "newsletter--info": "<h6>Subscribe to receive updates, access to exclusive deals, and more.<\/h6><p><\/p>",
             "subscribe--show-newsletter": true
           }
         },
