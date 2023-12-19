@@ -1,1 +1,84 @@
-{"type":"footer","name":"Footer Group","sections":{"footer":{"type":"footer","blocks":{"fcf99151-8fc4-451c-b977-54d76a3c04e6":{"type":"subscribe","settings":{"newsletter--heading":"","newsletter--info":"<h3><strong>Get 10% off your first order<\/strong><\/h3><p>Join our email list & get the good stuff first.<\/p><p><\/p>","subscribe--show-newsletter":true}},"1f422316-5885-4672-af57-e8d7e77d15d4":{"type":"menu","settings":{"menu-title":"Help","menu":"footer"}},"26d18519-896c-45a7-94fc-dd5211bbf074":{"type":"menu","settings":{"menu-title":"Quick Links","menu":"footer-menu-2"}},"864243fd-e600-4e66-8d1a-ab19a6715f9d":{"type":"menu","disabled":true,"settings":{"menu-title":"Shop","menu":"skincare"}},"6f78027f-1d00-4a19-9037-38a6419baa55":{"type":"about","disabled":true,"settings":{"about-title":"","text":"<h2>Beauty made accessible.<\/h2><h2><\/h2><h2><\/h2>","subscribe--show-social-icons":true}}},"block_order":["fcf99151-8fc4-451c-b977-54d76a3c04e6","1f422316-5885-4672-af57-e8d7e77d15d4","26d18519-896c-45a7-94fc-dd5211bbf074","864243fd-e600-4e66-8d1a-ab19a6715f9d","6f78027f-1d00-4a19-9037-38a6419baa55"],"custom_css":[".footer--block:nth-of-type(3) {align-items: center;}"],"settings":{"background-color":"dark","light-text":true,"section_widths":"1420px","show-region-selector":false,"show-locale-selector":false,"show-payment-icons":true}},"6c6e36a5-83c8-48eb-8a1f-6133daa8da91":{"type":"newsletter","disabled":true,"settings":{"background-color":"accent-2","light-text":false,"spacing-above":true,"spacing-below":true,"heading":"Stay In Touch","newsletter--subheading":"<h3><\/h3><h6>Get 10% off your first order. Plus access to exclusive deals, updates, and more.<\/h6><h6><\/h6>"}}},"order":["footer","6c6e36a5-83c8-48eb-8a1f-6133daa8da91"]}
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "fcf99151-8fc4-451c-b977-54d76a3c04e6": {
+          "type": "subscribe",
+          "settings": {
+            "newsletter--heading": "",
+            "newsletter--info": "<h3><strong>Get 10% off your first order<\/strong><\/h3><p>Join our email list & get the good stuff first.<\/p><p><\/p>",
+            "subscribe--show-newsletter": true
+          }
+        },
+        "1f422316-5885-4672-af57-e8d7e77d15d4": {
+          "type": "menu",
+          "settings": {
+            "menu-title": "Help",
+            "menu": "footer"
+          }
+        },
+        "26d18519-896c-45a7-94fc-dd5211bbf074": {
+          "type": "menu",
+          "settings": {
+            "menu-title": "Quick Links",
+            "menu": "footer-menu-2"
+          }
+        },
+        "864243fd-e600-4e66-8d1a-ab19a6715f9d": {
+          "type": "menu",
+          "disabled": true,
+          "settings": {
+            "menu-title": "Shop",
+            "menu": "skincare"
+          }
+        },
+        "6f78027f-1d00-4a19-9037-38a6419baa55": {
+          "type": "about",
+          "disabled": true,
+          "settings": {
+            "about-title": "",
+            "text": "<h2>Beauty made accessible.<\/h2><h2><\/h2><h2><\/h2>",
+            "subscribe--show-social-icons": true
+          }
+        }
+      },
+      "block_order": [
+        "fcf99151-8fc4-451c-b977-54d76a3c04e6",
+        "1f422316-5885-4672-af57-e8d7e77d15d4",
+        "26d18519-896c-45a7-94fc-dd5211bbf074",
+        "864243fd-e600-4e66-8d1a-ab19a6715f9d",
+        "6f78027f-1d00-4a19-9037-38a6419baa55"
+      ],
+      "custom_css": [
+        ".footer--block:nth-of-type(3) {align-items: center;}"
+      ],
+      "settings": {
+        "background-color": "dark",
+        "light-text": false,
+        "section_widths": "1420px",
+        "show-region-selector": false,
+        "show-locale-selector": false,
+        "show-payment-icons": true
+      }
+    },
+    "6c6e36a5-83c8-48eb-8a1f-6133daa8da91": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "background-color": "accent-2",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "heading": "Stay In Touch",
+        "newsletter--subheading": "<h3><\/h3><h6>Get 10% off your first order. Plus access to exclusive deals, updates, and more.<\/h6><h6><\/h6>"
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "6c6e36a5-83c8-48eb-8a1f-6133daa8da91"
+  ]
+}
