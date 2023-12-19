@@ -719,7 +719,7 @@
         "background-color": "none",
         "light-text": false,
         "enable_slide": true,
-        "block-spacing": false,
+        "block-spacing": true,
         "container-width": 5,
         "spacing-above": true,
         "spacing-below": true,
