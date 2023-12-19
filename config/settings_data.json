@@ -8,7 +8,7 @@
     "color--body": "#222222",
     "color--alternative": "#ffffff",
     "color--button": "#ffffff",
-    "bg-color--button": "#3e3636",
+    "bg-color--button": "#222222",
     "color--swatches": "ayellow green: #9acd32\nRed: rgb(139,0,0)\norange: orange.PNG\nStealth Grey: stealth-grey.jpg",
     "typography--heading": "harmonia_sans_n4",
     "typography--heading--uppercase": false,
