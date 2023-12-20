@@ -1,6 +1,6 @@
 <!doctype html>
 <html class="no-js flexbox-gap" lang="{{ request.locale.iso_code }}" dir="ltr">
-  <head>
+  <head>{% render 'pagefly-head' %}
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -70,6 +70,7 @@
     {{ content_for_header }}
   
 {% render 'digismoothie-giftbox' %}
+{% render 'gp-head' %}
 </head>
 
 
