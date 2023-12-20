@@ -3320,3 +3320,7 @@ form[aria-busy=false] .popup--block--loading {
 .footer--block--heading {
   font-weight: bold;
 }
+
+.product-buy-buttons--cta{
+  color: #fff;
+}

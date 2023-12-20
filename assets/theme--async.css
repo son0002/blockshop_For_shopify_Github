@@ -2651,7 +2651,8 @@ svg use svg {
 }
 
 .flexbox-gap .product-buy-buttons--root {
-    gap: var(--spacing--item)
+    gap: var(--spacing--item);
+    background-color: #000;
 }
 
 .no-flexbox-gap .product-buy-buttons--root>* {
