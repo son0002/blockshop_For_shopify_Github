@@ -882,7 +882,8 @@ table {
 }
 
 .radios--option-label {
-    display: inline
+    display: inline;
+    font-family: var(--font--heading--family);
 }
 
 label[data-item=swatch] {
@@ -978,7 +979,8 @@ label[data-item=swatch]::after {
 [data-is-swatches=true] .filter--input:hover+.radios--value-button>* {
     border-color: var(--color--body--light);
     color: var(--color--body);
-    background: 0 0
+    background: 0 0;
+    font-family: var(--font--heading--family);
 }
 
 .radios--input[data-item=radio]:focus-visible+.radios--value-button>*,
