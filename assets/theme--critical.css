@@ -1449,6 +1449,7 @@ input[type=submit]:visited {
 }
 
 [data-item=secondary-button]>:focus-visible,
+[data-item=secondary-button]>:hover,
 [data-item=secondary-button]>:link,
 [data-item=secondary-button]>:visited {
   color: var(--color--button);
@@ -1461,6 +1462,10 @@ input[type=submit]:visited {
 [data-item=secondary-button]>:visited {
   color: var(--bg-color--button);
   background: 0 0
+}
+
+[data-item=secondary-button]>:hover{
+  color: #fff !important;
 }
 
 [data-item=inverted-secondary-button] {
