@@ -3328,8 +3328,3 @@ form[aria-busy=false] .popup--block--loading {
 .product-buy-buttons--cta{
   color: #fff;
 }
-
-.product-buy-buttons--cta[data-item=secondary-button]:hover{
-  color: #fff !important;
-  font-weight: 600;
-}
