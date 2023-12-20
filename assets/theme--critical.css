@@ -884,6 +884,7 @@ input {
 [data-item=button]>*,
 [data-item=inverted-button]>*,
 [data-item=inverted-secondary-button]>*,
+[data-item=secondary-button]>*,
 button,
 input[type=button],
 input[type=reset],
@@ -1448,7 +1449,6 @@ input[type=submit]:visited {
 }
 
 [data-item=secondary-button]>:focus-visible,
-[data-item=secondary-button]>:hover,
 [data-item=secondary-button]>:link,
 [data-item=secondary-button]>:visited {
   color: var(--color--button);
