@@ -3326,5 +3326,6 @@ form[aria-busy=false] .popup--block--loading {
 }
 
 [data-item="secondary-button"]:hover{
-  color: #fff;
+  color: #fff !important;
+  font-weight: 600;
 }
