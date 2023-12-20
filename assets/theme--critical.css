@@ -1071,12 +1071,16 @@ h6 {
 input,
 label:not([data-item]),
 textarea {
-  font-family: var(--font--accent--family);
+  font-family: var(--font--heading--family);
   font-weight: var(--font--accent--weight);
   font-style: var(--font--accent--style);
   text-transform: uppercase;
   font-size: var(--font--paragraph--size);
   letter-spacing: 1px
+}
+
+.quantity-selector--input{
+  font-family: var(--font--heading--family);
 }
 
 @media only screen and (max-width:767px) {
