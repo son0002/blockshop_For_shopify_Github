@@ -3317,6 +3317,6 @@ form[aria-busy=false] .popup--block--loading {
 
 }
 
-.footer--block--heading ,.footer--block--body li a,.footer--subscribe--info h6{
+.footer--block--heading {
   font-weight: bold;
 }
