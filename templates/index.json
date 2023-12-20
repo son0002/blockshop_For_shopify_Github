@@ -798,6 +798,42 @@
         "link-url": "",
         "link-text": ""
       }
+    },
+    "0f337cf5-a0e5-4546-b489-185fd9a21e4d": {
+      "type": "image-comparison",
+      "blocks": {
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-before-1": {
+          "type": "before",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_59c1f982-ffa7-4f16-abf8-2a51613b4ea2.png"
+          }
+        },
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-after-1": {
+          "type": "after",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_e81ee3e3-744c-471e-8868-d4cf6ebad9ed.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-before-1",
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-after-1"
+      ],
+      "settings": {
+        "image-aspect-ratio": 40,
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "saie",
+        "heading": "Superglowy Gel",
+        "link-url": "shopify:\/\/products\/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-sample",
+        "link-text": "shop now",
+        "cursor-direction": "horizontal",
+        "cursor-position": 50,
+        "mobile-image-aspect-ratio": 134
+      }
     }
   },
   "order": [
@@ -817,6 +853,7 @@
     "164016757166a86406",
     "4bca25ed-7954-4fac-b953-85e71b0c0921",
     "ef31fa12-e7a0-4c66-8567-1cca76a8a029",
-    "016b17ec-e268-4d3a-a42d-18349b8c946c"
+    "016b17ec-e268-4d3a-a42d-18349b8c946c",
+    "0f337cf5-a0e5-4546-b489-185fd9a21e4d"
   ]
 }
