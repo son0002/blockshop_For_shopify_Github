@@ -782,6 +782,7 @@
         "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-2",
         "template--21725409739043__016b17ec-e268-4d3a-a42d-18349b8c946c-image-4"
       ],
+      "disabled": true,
       "settings": {
         "text-style": "light-with-overlay",
         "background-color": "none",
@@ -819,6 +820,7 @@
         "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-before-1",
         "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-after-1"
       ],
+      "disabled": true,
       "settings": {
         "image-aspect-ratio": 40,
         "background-color": "none",
