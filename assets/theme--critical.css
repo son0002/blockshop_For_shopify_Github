@@ -3325,7 +3325,7 @@ form[aria-busy=false] .popup--block--loading {
   color: #fff;
 }
 
-[data-item="secondary-button"]:hover{
+.product-buy-buttons--cta[data-item="secondary-button"]:hover{
   color: #fff !important;
   font-weight: 600;
 }
