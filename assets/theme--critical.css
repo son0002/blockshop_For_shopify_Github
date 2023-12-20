@@ -884,7 +884,6 @@ input {
 [data-item=button]>*,
 [data-item=inverted-button]>*,
 [data-item=inverted-secondary-button]>*,
-[data-item=secondary-button]>*,
 button,
 input[type=button],
 input[type=reset],
