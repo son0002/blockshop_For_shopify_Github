@@ -423,6 +423,9 @@
     "checkout": {
       "general": {
         "autocomplete_powered_by_google": " "
+      },
+      "throttle": {
+        "cart_summary_heading": "My Cart"
       }
     },
     "links": {
