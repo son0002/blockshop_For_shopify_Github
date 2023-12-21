@@ -24,7 +24,7 @@
       "type": "article-recents",
       "settings": {
         "enable": true,
-        "aspect-ratio": "square"
+        "aspect-ratio": "landscape"
       }
     },
     "comments": {
@@ -34,31 +34,12 @@
         "disqus-enabled": false,
         "disqus-shortname": ""
       }
-    },
-    "1f7ec40c-2502-49bb-af0e-b4a0df83b6c2": {
-      "type": "featured-collection",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "spacing-above": true,
-        "spacing-below": true,
-        "section_widths": "1420px",
-        "featured-collection--image--show": false,
-        "featured-collection--description--show": false,
-        "display-type": "slideshow",
-        "products-per-row--desktop": "5",
-        "products-per-row--mobile": "2",
-        "collection": "minis",
-        "max-products": 6,
-        "heading": "Collection name"
-      }
     }
   },
   "order": [
     "main",
     "navigation",
     "recents",
-    "comments",
-    "1f7ec40c-2502-49bb-af0e-b4a0df83b6c2"
+    "comments"
   ]
 }
