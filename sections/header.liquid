@@ -73,7 +73,7 @@ align-content: center;
 }
 
  .custom-ss .footer--cart{
-   margin:1px 15px 0 0;
+   margin:1px 0 0 15px;
  }
    @media only screen and (min-width:767px){
      .sdas1{
@@ -173,6 +173,20 @@ width: 50%;
 
 </div>
    <div class='custom-ss'>
+    {%- if section.settings.header-account-show and shop.customer_accounts_enabled -%}
+    <a
+      class="header--account-icon"
+      {% if customer %}
+        href="{{ routes.account_url }}"
+      {% else %}
+        href="{{ routes.account_login_url }}"
+      {% endif %}
+      aria-label="{{ account_t }}"
+    >
+      {%- render 'icons', icon: 'account' -%}
+    </a>
+  {%- endif -%}
+
       {%- if settings.search--show-in-header -%}
       <!-- <div
         class="header--search"
@@ -188,20 +202,7 @@ width: 50%;
   {% render 'header-cart', cart_icon: cart_icon %}
 </div>
     {%- endif -%}
-
-    {%- if section.settings.header-account-show and shop.customer_accounts_enabled -%}
-      <a
-        class="header--account-icon"
-        {% if customer %}
-          href="{{ routes.account_url }}"
-        {% else %}
-          href="{{ routes.account_login_url }}"
-        {% endif %}
-        aria-label="{{ account_t }}"
-      >
-        {%- render 'icons', icon: 'account' -%}
-      </a>
-    {%- endif -%}
+   
    </div>
     
   </div>
