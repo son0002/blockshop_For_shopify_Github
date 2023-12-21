@@ -34,11 +34,14 @@
     "search--show-products": false,
     "cart--type": "drawer",
     "transitions--disabled": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/Black_and_White_Vintage_Retro_Paper_Texture_Music_Band_Studio_Logo_200_x_48px_2_a76b16e9-6205-49aa-a095-99a4acc0ae5a.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Transparent.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_input_background_color_mode": "white",
     "checkout_heading_font": "Open Sans",
     "checkout_body_font": "Helvetica Neue",
     "checkout_accent_color": "#1773b0",
-    "checkout_layout": "onepage",
+    "checkout_layout": "threepage",
     "preset": "beauty",
     "content_for_index": [
 
@@ -68,9 +71,9 @@
         "settings": {
           "button_color": "#3d3d3d",
           "button_icon": "chat_bubble",
+          "button_text": "no_text",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "button_text": "no_text",
           "greeting_message": "👋 Hello! Thanks for reaching out. What can we help you with?"
         }
       }
