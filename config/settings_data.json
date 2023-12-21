@@ -15,7 +15,7 @@
     "typography--heading--size": "medium",
     "typography--accent": "neuzeit_s_n4",
     "typography--paragraph": "neuzeit_s_n4",
-    "typography--paragraph--size": "medium",
+    "typography--paragraph--size": "small",
     "product--image-size": "natural",
     "product--hover-image-enabled": true,
     "product--show-vendor": true,
