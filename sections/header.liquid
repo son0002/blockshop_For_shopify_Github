@@ -96,6 +96,15 @@ assign section_width = section.settings.section_widths
     .custom-ss .icon--root {
       bottom: 0 !important;
     }
+
+    .custom-ss .header--account-icon, .custom-ss .footer--cart{
+      display: flex;
+      align-items: center;
+    }
+    
+    .ctText{
+      margin-right: 7px;
+    }
   }
 
   @media only screen and (max-width:767px) {
@@ -191,7 +200,7 @@ assign section_width = section.settings.section_widths
       {% endif %}
       aria-label="{{ account_t }}"
     >
-      {%- render 'icons', icon: 'account' -%}
+      {%- render 'icons', icon: 'account' -%} <span class="ctText">Account</span>
     </a>
   {%- endif -%}
 
@@ -207,7 +216,7 @@ assign section_width = section.settings.section_widths
         {%- render 'icons', icon: 'search' -%}
       </div> -->
      <div class="footer--cart">
-  {% render 'header-cart', cart_icon: cart_icon %}
+  {% render 'header-cart', cart_icon: cart_icon %} <span class="ctText">My Cart</span>
 </div>
     {%- endif -%}
    
