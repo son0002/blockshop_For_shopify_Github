@@ -37,11 +37,13 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/Transparent_e551a964-1e97-4ea7-b388-8ed91d4ec880.png",
     "checkout_logo_position": "right",
     "checkout_logo_size": "medium",
+    "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#f9f9f9",
     "checkout_heading_font": "Open Sans",
     "checkout_body_font": "Helvetica Neue",
     "checkout_accent_color": "#1773b0",
-    "checkout_layout": "threepage",
+    "checkout_layout": "onepage",
     "preset": "beauty",
     "content_for_index": [
 
