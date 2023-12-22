@@ -13,7 +13,8 @@
 -%}
 
 <div class="cart--external--icon" data-item-count="{{ cart.item_count }}">
-  <a
+  <div class="cust-icon">
+    <a
     class="header--cart-toggle"
     aria-label="{{ cart_t }}"
     {% if settings.cart--type == 'drawer' %}
@@ -32,6 +33,7 @@
 
     <span class="ctText">My Cart</span>
   </a>
+  </div>
 
   <noscript>
     <a
