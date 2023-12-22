@@ -138,7 +138,6 @@
     },
     "0f043a44-284d-4afc-8c22-d16e8d2ba6b4": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -266,7 +265,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 3,
         "spacing-above": false,
         "spacing-below": true,
         "hotspot-color": "light",
