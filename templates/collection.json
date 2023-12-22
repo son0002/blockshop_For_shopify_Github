@@ -3,7 +3,7 @@
     "collection-header": {
       "type": "collection--header",
       "custom_css": [
-        ".collection--header--root{max-width: 1420px; margin: 0 auto;}"
+        ".collection--header--root {max-width: 1420px; margin: 0 auto;}"
       ],
       "settings": {
         "show-title": true,
@@ -65,7 +65,7 @@
       "settings": {
         "products-per-row--desktop": 5,
         "products-per-row--mobile": "2",
-        "section_widths": "1420px",
+        "section_widths": "100%",
         "number-of-rows": 9
       }
     }
