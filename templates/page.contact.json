@@ -3,11 +3,11 @@
     "main": {
       "type": "page",
       "settings": {
-        "show-title": false,
+        "show-title": true,
         "background-color": "none",
         "light-text": false,
-        "container-width": 1,
-        "spacing-above": false,
+        "container-width": 2,
+        "spacing-above": true,
         "spacing-below": true
       }
     },
