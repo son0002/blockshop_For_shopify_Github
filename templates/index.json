@@ -138,6 +138,7 @@
     },
     "0f043a44-284d-4afc-8c22-d16e8d2ba6b4": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -263,12 +264,12 @@
         "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-3"
       ],
       "settings": {
-        "background-color": "none",
+        "background-color": "light",
         "light-text": false,
         "container-width": 3,
         "spacing-above": false,
         "spacing-below": true,
-        "hotspot-color": "light",
+        "hotspot-color": "accent-1",
         "heading": "",
         "heading-alignment": "center",
         "image": "shopify:\/\/shop_images\/Untitled_Facebook_Post.jpg"
