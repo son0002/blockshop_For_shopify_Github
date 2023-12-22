@@ -61,7 +61,8 @@
 @media only screen and (max-width:767px) {
     .carousel--x-container {
         width:calc(100% * var(--total-slides-mobile) - var(--container-offset-mobile));
-        left:var(--offset-mobile)
+        /* left:var(--offset-mobile); */
+        left:0
     }
 }
 .carousel--root:hover .carousel--x-container {
