@@ -65,7 +65,7 @@
       "settings": {
         "products-per-row--desktop": 5,
         "products-per-row--mobile": "2",
-        "section_widths": "100%",
+        "section_widths": "1500px",
         "number-of-rows": 8
       }
     }
