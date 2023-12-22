@@ -97,7 +97,7 @@
         "container-width": 3,
         "spacing-above": true,
         "spacing-below": true,
-        "media-layout": "mixed",
+        "media-layout": "thumbnails",
         "text-column-width": 40,
         "media-gap": 20,
         "column-spacing": "evenly",
