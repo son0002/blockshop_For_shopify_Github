@@ -535,7 +535,8 @@ body[data-assets-loaded=true] .modal--window {
 
 [data-container=section] [data-item] {
   display: block;
-  flex-basis: 100%
+  flex-basis: 100%;
+  text-transform: capitalize;
 }
 
 [data-section-id] {
