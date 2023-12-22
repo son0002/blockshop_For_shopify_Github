@@ -31,6 +31,8 @@
     "quick-add--enabled": true,
     "quick-add--variant-style": "dropdowns",
     "quick-add--show-quantity": false,
+    "search--show-in-header": false,
+    "search--list": "",
     "search--show-products": false,
     "favicon": "shopify:\/\/shop_images\/LOGO_5871c918-2e7d-4ce3-8d83-6dcac586967f.png",
     "cart--type": "drawer",
@@ -62,12 +64,6 @@
         "settings": {
         }
       },
-      "14352282602675302068": {
-        "type": "shopify:\/\/apps\/cloud-search-product-filter\/blocks\/cloudsearch_opt\/8ddbd0bf-e311-492e-ab28-69d0ad268fac",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "15683396631634586217": {
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
@@ -78,6 +74,12 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hello! Thanks for reaching out. What can we help you with?"
+        }
+      },
+      "14352282602675302068": {
+        "type": "shopify:\/\/apps\/cloud-search-product-filter\/blocks\/cloudsearch_opt\/8ddbd0bf-e311-492e-ab28-69d0ad268fac",
+        "disabled": false,
+        "settings": {
         }
       }
     }
