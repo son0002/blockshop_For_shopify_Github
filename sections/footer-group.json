@@ -58,7 +58,7 @@
       "settings": {
         "background-color": "dark",
         "light-text": false,
-        "section_widths": "1420px",
+        "section_widths": "100%",
         "show-region-selector": false,
         "show-locale-selector": false,
         "show-payment-icons": true

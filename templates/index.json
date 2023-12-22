@@ -1,82 +1,91 @@
 {
   "sections": {
-    "5d3d0aa0-3d10-4276-877c-d241378de1c6": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 42,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "bottom",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Title_1000_x_400_px.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "shopify:\/\/collections\/the-7-virtues",
-        "link-text": ""
-      }
-    },
-    "slideshow": {
-      "type": "slideshow",
+    "0f337cf5-a0e5-4546-b489-185fd9a21e4d": {
+      "type": "image-comparison",
       "blocks": {
-        "slide-1": {
-          "type": "image",
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-before-1": {
+          "type": "before",
           "settings": {
-            "text-position": "bottom-left",
-            "text-width": "small",
-            "image": "shopify:\/\/shop_images\/Title_1000_x_400_px.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "",
-            "link-text": ""
+            "image": "shopify:\/\/shop_images\/1_59c1f982-ffa7-4f16-abf8-2a51613b4ea2.png"
           }
         },
-        "d7350907-8950-477f-a304-0a6a394ff4c1": {
-          "type": "image",
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-after-1": {
+          "type": "after",
           "settings": {
-            "text-position": "center",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Title_Envelope_C5_1000_x_1100_px_c5ae2ba4-6817-450f-b364-31f44fdb71fe.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/image_7e99e052-2b43-48fc-afb0-a24ae109e8e0.jpg"
+            "image": "shopify:\/\/shop_images\/2_e81ee3e3-744c-471e-8868-d4cf6ebad9ed.png"
           }
         }
       },
       "block_order": [
-        "slide-1",
-        "d7350907-8950-477f-a304-0a6a394ff4c1"
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-before-1",
+        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-after-1"
       ],
       "disabled": true,
       "settings": {
-        "text-color": "auto",
-        "background-color": "none",
+        "image-aspect-ratio": 48,
+        "background-color": "dark",
+        "light-text": false,
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Saie Glowy Super Gel",
+        "link-url": "shopify:\/\/products\/saie-glowy-super-gel-highlighter-5ml",
+        "link-text": "shop now",
+        "cursor-direction": "horizontal",
+        "cursor-position": 50,
+        "mobile-image-aspect-ratio": 134
+      }
+    },
+    "c990c808-20ee-417a-8211-74ae6de26bb0": {
+      "type": "shop-the-look",
+      "blocks": {
+        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-1": {
+          "type": "hotspot",
+          "settings": {
+            "product": "supergoop-glowscreen-sunscreen-spf-40-pa-with-hyaluronic-acid-niacinamide",
+            "horizontal": 48,
+            "vertical": 49,
+            "mobile-horizontal": 44,
+            "mobile-vertical": 37
+          }
+        },
+        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-2": {
+          "type": "hotspot",
+          "settings": {
+            "product": "supergoop-100-mineral-sheerscreen-sunscreen-spf-30",
+            "horizontal": 77,
+            "vertical": 41,
+            "mobile-horizontal": 62,
+            "mobile-vertical": 74
+          }
+        },
+        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-3": {
+          "type": "hotspot",
+          "settings": {
+            "product": "supergoop-unseen-sunscreen-spf-40-pa",
+            "horizontal": 26,
+            "vertical": 27,
+            "mobile-horizontal": 25,
+            "mobile-vertical": 48
+          }
+        }
+      },
+      "block_order": [
+        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-1",
+        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-2",
+        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-3"
+      ],
+      "settings": {
+        "background-color": "light",
+        "light-text": false,
+        "container-width": 2,
         "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": true,
-        "auto-rotate": false,
-        "rotate-frequency": 3,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 42,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": false
+        "spacing-below": true,
+        "hotspot-color": "accent-1",
+        "heading": "",
+        "heading-alignment": "center",
+        "image": "shopify:\/\/shop_images\/Untitled_Facebook_Post.jpg"
       }
     },
     "e219623d-5f4f-4ae7-9e16-584bb4e64c4a": {
@@ -113,7 +122,7 @@
         "background-color": "none",
         "light-text": false,
         "spacing-above": true,
-        "section_widths": "1420px",
+        "section_widths": "100%",
         "spacing-below": false,
         "display-type": "slideshow",
         "products-per-row--desktop": "5",
@@ -224,57 +233,6 @@
         "image-type": "collection"
       }
     },
-    "c990c808-20ee-417a-8211-74ae6de26bb0": {
-      "type": "shop-the-look",
-      "blocks": {
-        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-1": {
-          "type": "hotspot",
-          "settings": {
-            "product": "supergoop-glowscreen-sunscreen-spf-40-pa-with-hyaluronic-acid-niacinamide",
-            "horizontal": 48,
-            "vertical": 49,
-            "mobile-horizontal": 44,
-            "mobile-vertical": 37
-          }
-        },
-        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-2": {
-          "type": "hotspot",
-          "settings": {
-            "product": "supergoop-100-mineral-sheerscreen-sunscreen-spf-30",
-            "horizontal": 77,
-            "vertical": 41,
-            "mobile-horizontal": 62,
-            "mobile-vertical": 74
-          }
-        },
-        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-3": {
-          "type": "hotspot",
-          "settings": {
-            "product": "supergoop-unseen-sunscreen-spf-40-pa",
-            "horizontal": 26,
-            "vertical": 27,
-            "mobile-horizontal": 25,
-            "mobile-vertical": 48
-          }
-        }
-      },
-      "block_order": [
-        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-1",
-        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-2",
-        "template--14898551390289__c990c808-20ee-417a-8211-74ae6de26bb0-hotspot-3"
-      ],
-      "settings": {
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 3,
-        "spacing-above": false,
-        "spacing-below": true,
-        "hotspot-color": "accent-1",
-        "heading": "",
-        "heading-alignment": "center",
-        "image": "shopify:\/\/shop_images\/Untitled_Facebook_Post.jpg"
-      }
-    },
     "1640167859b5c16893": {
       "type": "grid-with-overlay",
       "blocks": {
@@ -367,157 +325,58 @@
         "link-text": ""
       }
     },
-    "2bc38ec4-7be4-48e0-be44-1d712bc79ac9": {
-      "type": "featured-product",
+    "slideshow": {
+      "type": "slideshow",
       "blocks": {
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-overline-1": {
-          "type": "overline",
-          "settings": {
-            "text": "Overline text"
-          }
-        },
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-heading-1": {
-          "type": "heading",
-          "settings": {
-          }
-        },
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-vendor-1": {
-          "type": "vendor",
-          "settings": {
-          }
-        },
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-options-1": {
-          "type": "options",
-          "settings": {
-            "variant-style": "buttons",
-            "swatches-enabled": true,
-            "size-chart-enabled": true,
-            "size-chart-option": "size",
-            "size-chart-content": ""
-          }
-        },
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-buy-buttons-1": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        }
-      },
-      "block_order": [
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-overline-1",
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-heading-1",
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-vendor-1",
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-price-1",
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-options-1",
-        "template--21683259801891__2bc38ec4-7be4-48e0-be44-1d712bc79ac9-buy-buttons-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "container-width": 3,
-        "spacing-above": true,
-        "spacing-below": true,
-        "text-column-width": 36,
-        "text-alignment": "left",
-        "thumbnail-width": 80,
-        "media-gap": 8,
-        "featured_product": "",
-        "loop-enabled": false
-      }
-    },
-    "grid-with-overlay": {
-      "type": "grid-with-overlay",
-      "blocks": {
-        "9b89e24a-c631-4247-9e0e-b0a2e07065fb": {
+        "slide-1": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/The7Virtues_MPNW_logo_2.webp",
-            "wide": true,
-            "tall": false,
-            "retain-ratio": true,
+            "text-position": "bottom-left",
+            "text-width": "small",
+            "image": "shopify:\/\/shop_images\/Title_1000_x_400_px.png",
+            "overline": "",
             "title": "",
+            "description": "",
             "link-url": "",
             "link-text": ""
           }
         },
-        "overlay-block-0": {
+        "d7350907-8950-477f-a304-0a6a394ff4c1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_ac77c055-a301-40cb-a78a-1b35d675e41c.png",
-            "wide": false,
-            "tall": false,
-            "retain-ratio": false,
+            "text-position": "center",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/Title_Envelope_C5_1000_x_1100_px_c5ae2ba4-6817-450f-b364-31f44fdb71fe.png",
+            "overline": "",
             "title": "",
-            "link-url": "shopify:\/\/products\/the-7-virtues-lotus-pear-edp-sample",
-            "link-text": ""
-          }
-        },
-        "overlay-block-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_e8f4229a-70f8-4803-af71-b8e23ceb0dea.png",
-            "wide": false,
-            "tall": false,
-            "retain-ratio": false,
-            "title": "",
-            "link-url": "shopify:\/\/products\/the-7-virtues-blackberry-lily-edp-sample",
-            "link-text": ""
-          }
-        },
-        "overlay-block-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KEY_NOTES_1.png",
-            "wide": false,
-            "tall": false,
-            "retain-ratio": false,
-            "title": "",
-            "link-url": "shopify:\/\/products\/the-7-virtues-vanilla-woods-edp-sample",
-            "link-text": ""
-          }
-        },
-        "overlay-block-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KEY_NOTES_2.png",
-            "wide": false,
-            "tall": false,
-            "retain-ratio": false,
-            "title": "",
-            "link-url": "shopify:\/\/products\/the-7-virtues-santal-vanille-epd-sample",
-            "link-text": ""
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/image_7e99e052-2b43-48fc-afb0-a24ae109e8e0.jpg"
           }
         }
       },
       "block_order": [
-        "9b89e24a-c631-4247-9e0e-b0a2e07065fb",
-        "overlay-block-0",
-        "overlay-block-3",
-        "overlay-block-1",
-        "overlay-block-2"
+        "slide-1",
+        "d7350907-8950-477f-a304-0a6a394ff4c1"
       ],
       "disabled": true,
       "settings": {
-        "text-style": "box",
+        "text-color": "auto",
         "background-color": "none",
-        "light-text": false,
-        "mobile-overlay": false,
-        "container-width": 6,
-        "spacing": false,
         "spacing-above": false,
         "spacing-below": false,
-        "width": 4,
-        "mobile-width": "2",
-        "heading": "",
-        "subtitle": "",
-        "link-url": "",
-        "link-text": ""
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 40,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": true,
+        "auto-rotate": false,
+        "rotate-frequency": 3,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 42,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": false
       }
     },
     "c2bf2975-d67f-4266-a3ff-0792d1bea3ea": {
@@ -597,6 +456,31 @@
         "mobile-image-aspect-ratio": 62,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
+      }
+    },
+    "5d3d0aa0-3d10-4276-877c-d241378de1c6": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 42,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "bottom",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/Title_1000_x_400_px.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "shopify:\/\/collections\/the-7-virtues",
+        "link-text": ""
       }
     },
     "164016757166a86406": {
@@ -723,6 +607,96 @@
         "link-text": ""
       }
     },
+    "grid-with-overlay": {
+      "type": "grid-with-overlay",
+      "blocks": {
+        "9b89e24a-c631-4247-9e0e-b0a2e07065fb": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The7Virtues_MPNW_logo_2.webp",
+            "wide": true,
+            "tall": false,
+            "retain-ratio": true,
+            "title": "",
+            "link-url": "",
+            "link-text": ""
+          }
+        },
+        "overlay-block-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_ac77c055-a301-40cb-a78a-1b35d675e41c.png",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
+            "link-url": "shopify:\/\/products\/the-7-virtues-lotus-pear-edp-sample",
+            "link-text": ""
+          }
+        },
+        "overlay-block-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_e8f4229a-70f8-4803-af71-b8e23ceb0dea.png",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
+            "link-url": "shopify:\/\/products\/the-7-virtues-blackberry-lily-edp-sample",
+            "link-text": ""
+          }
+        },
+        "overlay-block-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KEY_NOTES_1.png",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
+            "link-url": "shopify:\/\/products\/the-7-virtues-vanilla-woods-edp-sample",
+            "link-text": ""
+          }
+        },
+        "overlay-block-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KEY_NOTES_2.png",
+            "wide": false,
+            "tall": false,
+            "retain-ratio": false,
+            "title": "",
+            "link-url": "shopify:\/\/products\/the-7-virtues-santal-vanille-epd-sample",
+            "link-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "9b89e24a-c631-4247-9e0e-b0a2e07065fb",
+        "overlay-block-0",
+        "overlay-block-3",
+        "overlay-block-1",
+        "overlay-block-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "text-style": "box",
+        "background-color": "none",
+        "light-text": false,
+        "mobile-overlay": false,
+        "container-width": 6,
+        "spacing": false,
+        "spacing-above": false,
+        "spacing-below": false,
+        "width": 4,
+        "mobile-width": "2",
+        "heading": "",
+        "subtitle": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "016b17ec-e268-4d3a-a42d-18349b8c946c": {
       "type": "grid-with-overlay",
       "blocks": {
@@ -799,63 +773,25 @@
         "link-url": "",
         "link-text": ""
       }
-    },
-    "0f337cf5-a0e5-4546-b489-185fd9a21e4d": {
-      "type": "image-comparison",
-      "blocks": {
-        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-before-1": {
-          "type": "before",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_59c1f982-ffa7-4f16-abf8-2a51613b4ea2.png"
-          }
-        },
-        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-after-1": {
-          "type": "after",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_e81ee3e3-744c-471e-8868-d4cf6ebad9ed.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-before-1",
-        "template--21725409739043__0f337cf5-a0e5-4546-b489-185fd9a21e4d-after-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image-aspect-ratio": 40,
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "saie",
-        "heading": "Superglowy Gel",
-        "link-url": "shopify:\/\/products\/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-sample",
-        "link-text": "shop now",
-        "cursor-direction": "horizontal",
-        "cursor-position": 50,
-        "mobile-image-aspect-ratio": 134
-      }
     }
   },
   "order": [
-    "5d3d0aa0-3d10-4276-877c-d241378de1c6",
-    "slideshow",
+    "0f337cf5-a0e5-4546-b489-185fd9a21e4d",
+    "c990c808-20ee-417a-8211-74ae6de26bb0",
     "e219623d-5f4f-4ae7-9e16-584bb4e64c4a",
     "a2243e73-eaf5-4985-8402-eb9b4ed43f1e",
     "0f043a44-284d-4afc-8c22-d16e8d2ba6b4",
     "db06695d-738f-41de-ab0d-937bc64e8f42",
     "16401814158380a11c",
     "629cba02-9529-4f5a-bac5-7f1c0861a7c7",
-    "c990c808-20ee-417a-8211-74ae6de26bb0",
     "1640167859b5c16893",
-    "2bc38ec4-7be4-48e0-be44-1d712bc79ac9",
-    "grid-with-overlay",
+    "slideshow",
     "c2bf2975-d67f-4266-a3ff-0792d1bea3ea",
+    "5d3d0aa0-3d10-4276-877c-d241378de1c6",
     "164016757166a86406",
     "4bca25ed-7954-4fac-b953-85e71b0c0921",
     "ef31fa12-e7a0-4c66-8567-1cca76a8a029",
-    "016b17ec-e268-4d3a-a42d-18349b8c946c",
-    "0f337cf5-a0e5-4546-b489-185fd9a21e4d"
+    "grid-with-overlay",
+    "016b17ec-e268-4d3a-a42d-18349b8c946c"
   ]
 }
