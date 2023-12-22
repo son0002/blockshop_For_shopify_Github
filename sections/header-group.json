@@ -23,15 +23,15 @@
         "background-color": "none",
         "light-text": false,
         "header-account-show": true,
-        "cart--icon": "bag",
-        "section_widths": "1420px",
+        "cart--icon": "cart",
+        "section_widths": "1500px",
         "header-menu-center": true,
         "menu": "main-menu",
         "show-region-selector": false,
         "show-locale-selector": false,
         "header-logo-center": false,
         "logo": "shopify:\/\/shop_images\/Black_and_White_Vintage_Retro_Paper_Texture_Music_Band_Studio_Logo_200_x_48px_2_a76b16e9-6205-49aa-a095-99a4acc0ae5a.png",
-        "logo-height": 50,
+        "logo-height": 45,
         "mobile-logo-height": 30
       }
     }
