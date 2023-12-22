@@ -34,6 +34,9 @@
     "search--show-in-header": true,
     "search--list": "",
     "search--show-products": false,
+    "search--product-list": [
+
+    ],
     "favicon": "shopify:\/\/shop_images\/LOGO_5871c918-2e7d-4ce3-8d83-6dcac586967f.png",
     "cart--type": "drawer",
     "transitions--disabled": false,
