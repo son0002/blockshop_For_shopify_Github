@@ -31,8 +31,8 @@
         "show-locale-selector": false,
         "header-logo-center": false,
         "logo": "shopify:\/\/shop_images\/Black_and_White_Vintage_Retro_Paper_Texture_Music_Band_Studio_Logo_200_x_48px_3.png",
-        "logo-height": 30,
-        "mobile-logo-height": 20
+        "logo-height": 25,
+        "mobile-logo-height": 15
       }
     }
   },
