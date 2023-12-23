@@ -28,7 +28,7 @@
     "product--show-new-label": false,
     "product--new-label-period": 90,
     "product--featured-tags": "new",
-    "quick-add--enabled": true,
+    "quick-add--enabled": false,
     "quick-add--variant-style": "dropdowns",
     "quick-add--show-quantity": false,
     "search--show-in-header": true,
