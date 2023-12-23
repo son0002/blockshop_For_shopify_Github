@@ -15,8 +15,9 @@
         },
         "caa173ef-1198-43b1-a772-9bccac1a2a62": {
           "type": "overline",
+          "disabled": true,
           "settings": {
-            "text": ""
+            "text": "Size: {{ product.metafields.product.size.value }}"
           }
         },
         "price": {
@@ -46,6 +47,20 @@
             "smart-payment-enabled": true
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "53d32f5f-8cbb-4ec1-ae3e-631eac3ddbc6": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "{{ block.settings[\"page-content\"].title }}",
+            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "page-content": "shipping-returns",
+            "default-open": false
+          }
+        },
         "social-sharing": {
           "type": "social-sharing",
           "settings": {
@@ -56,26 +71,12 @@
             "url-enabled": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "complementary-products": {
           "type": "complementary-products",
           "settings": {
             "title": "Pairs well with",
             "max-products": 2,
             "collapsible-row-enabled": false
-          }
-        },
-        "53d32f5f-8cbb-4ec1-ae3e-631eac3ddbc6": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "{{ block.settings[\"page-content\"].title }}",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
-            "page-content": "shipping-returns",
-            "default-open": false
           }
         }
       },
@@ -87,10 +88,10 @@
         "options",
         "4468062b-f73b-46ea-931c-f7f529d5f6a0",
         "buy-buttons",
-        "social-sharing",
         "description",
-        "complementary-products",
-        "53d32f5f-8cbb-4ec1-ae3e-631eac3ddbc6"
+        "53d32f5f-8cbb-4ec1-ae3e-631eac3ddbc6",
+        "social-sharing",
+        "complementary-products"
       ],
       "custom_css": [
 
