@@ -12,7 +12,7 @@
     "color--swatches": "ayellow green: #9acd32\nRed: rgb(139,0,0)\norange: orange.PNG\nStealth Grey: stealth-grey.jpg",
     "typography--heading": "roboto_n4",
     "typography--heading--uppercase": false,
-    "typography--heading--size": "large",
+    "typography--heading--size": "medium",
     "typography--accent": "roboto_n5",
     "typography--paragraph": "roboto_n4",
     "typography--paragraph--size": "medium",
