@@ -15,9 +15,8 @@
         },
         "caa173ef-1198-43b1-a772-9bccac1a2a62": {
           "type": "overline",
-          "disabled": true,
           "settings": {
-            "text": "Size: {{ product.metafields.product.size.value }}"
+            "text": "{{ product.metafields.product.size.value }}"
           }
         },
         "price": {
@@ -27,6 +26,7 @@
         },
         "options": {
           "type": "options",
+          "disabled": true,
           "settings": {
             "variant-style": "buttons",
             "swatches-enabled": false,
